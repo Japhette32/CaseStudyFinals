@@ -8,8 +8,8 @@ import javax.swing.*;
                 {"3456-7890-1234", "Railee Darrel", "10000.00", "3333", "Active"},
                 {"4567-8901-2345", "Railynne Dessirei", "2500.00", "4444", "Active"},
                 {"5678-9012-3456", "Raine Dessirei", "10000.00", "5555", "Active"}
-                {"5678-9012-3456", "this is a change", "10000.00", "5555", "Active"}
         };
+        /* Blablabla */
 
         public static String Output1() {
             return JOptionPane.showInputDialog(null,
