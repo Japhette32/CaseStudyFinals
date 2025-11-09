@@ -9,7 +9,7 @@ import javax.swing.*;
                 {"4567-8901-2345", "Railynne Dessirei", "2500.00", "4444", "Active"},
                 {"5678-9012-3456", "Raine Dessirei", "10000.00", "5555", "Active"}
         };
-        /* Blablabla */
+        /* Blabla*/
 
         public static String Output1() {
             return JOptionPane.showInputDialog(null,
@@ -122,4 +122,5 @@ import javax.swing.*;
             }
         }
     }
+
 
